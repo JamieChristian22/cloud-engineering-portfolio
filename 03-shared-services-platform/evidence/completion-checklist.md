@@ -1,0 +1,23 @@
+# Completion Checklist
+
+- [x] Shared Services VPC created
+- [x] Public subnet created
+- [x] Private subnet created
+- [x] Internet Gateway created and attached
+- [x] Public route table created
+- [x] Route table associated
+- [x] Security group created
+- [x] Systems Manager role created
+- [x] Managed node online
+- [x] Session Manager tested
+- [x] Secret created
+- [x] Secret value demonstrated
+- [x] ACM workflow documented
+- [x] ECR repository created
+- [x] Push commands viewed
+- [x] CloudWatch log groups created
+- [x] Log retention configured
+- [x] AWS Backup vault created
+- [x] Backup plan created
+- [x] Resource assignment created
+- [x] Documentation completed
